@@ -1,2 +1,3 @@
 #!/bin/bash
-echo NUM=$NUM=%d
+print "%.2f\n" "$NUM":x
+
